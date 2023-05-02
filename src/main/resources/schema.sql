@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS players (id serial PRIMARY KEY, name VARCHAR(255), nick_name VARCHAR(255));
